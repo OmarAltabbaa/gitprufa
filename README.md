@@ -1,2 +1,3 @@
-txti í skrá
+texti í skrá
+
 lina 2
