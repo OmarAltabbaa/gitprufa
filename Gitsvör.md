@@ -1,9 +1,5 @@
 Hvað gera eftirfarandi Linux skipanir? 
-
-cd -
-
+cd - til að opna directory
 ls -
-
-pwd -
-
-mkdir -
+pwd - 
+mkdir -til að búa directory
